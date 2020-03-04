@@ -1,8 +1,8 @@
-# holamundo típico. Muestra un mensaje simple, para ilustrar la estructrura
-# típica de un programa.
+# hola mundo para emepezar a practicar python
+# principiante en programacion
 
-# El punto de entrada se llamará main
-# Se compone de un estatuto def
+# print para imprimir resultado
+# Se compone de un estatuto def que es definido
 
 def  main ():
   print ( "Hola mundo, ahora en Python" )
